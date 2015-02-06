@@ -1,0 +1,57 @@
+
+public class Multivariableclass {
+	
+	
+	public static void main(String[] args){
+		
+	}
+	int sum1=0;
+	public static float 2DIntegrater(){
+		
+	
+		private static float Mathfunction(float x,float y){
+			return 1/Math.log(xy) ;
+		}
+		
+		
+		
+		
+		
+		float x_1 = 0
+		for(int i=0;i<200;i++){
+			x_1 = x_1+ (1/100);
+			sum1 = sum1+Mathfunction();
+		}
+		
+	}
+
+	
+	/*
+	 *Consider the object formed by  over a region D in the xy plane.  
+	This volume will seldom be computable analytically.   
+	In this problem, use the partitioning methods illustrated in section 5.2 to approximate the volume of the object over a.  D =  and b.  D = such that  ,  .
+ 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	Build your approximation in Excel (preferably) or a programming language of your choice.   
+	Use 100 subintervals of x and 200 subintervals in y.   
+	You’ll need to decide which analogies of LRMram or Traps make sense
+	*/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
